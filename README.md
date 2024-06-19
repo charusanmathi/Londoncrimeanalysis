@@ -9,6 +9,10 @@ London, the capital and largest city of England and the United Kingdom, is a glo
 
 Given London's significance on the global stage, maintaining a secure environment is essential. Certain parts of London experience higher crime rates, posing concerns for individuals relocating to the city for work and business. These individuals are often very conscious about selecting a safe area for residence. Additionally, local police can benefit from this analysis by focusing their efforts on controlling crime in areas that are major centers for criminal activities.
 
+# Dataset 
+
+This is the London LSOA 2008-2016 dataset available https://www.kaggle.com/datasets/jboysen/london-crime 
+
 ## Solution
 
 This project aims to identify the safest borough in London based on total crimes recorded between 2008 and 2016. By analyzing crime statistics over this period, we provide valuable insights to help individuals make informed decisions about where to live. The analysis includes detailed exploration of major and minor crime categories, and identification of boroughs with the highest and lowest crime rates.
